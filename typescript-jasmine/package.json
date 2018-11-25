@@ -15,7 +15,9 @@
     "test"
   ],
   "author": "Paulo Clavijo",
-  "dependencies": {},
+  "dependencies": {
+    "jasmine-parameterized": "^0.3.1"
+  },
   "devDependencies": {
     "@types/jasmine": "~2.8.0",
     "jasmine": "~2.8.0",
