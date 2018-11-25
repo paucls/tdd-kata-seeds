@@ -1,4 +1,4 @@
-import { Greeter } from '../lib/greeter';
+import { Greeter } from '../src/greeter';
 
 describe('Greeter', () => {
 
