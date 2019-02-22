@@ -5,7 +5,7 @@ Seed projects to quickly start practicing TDD in different programming languages
  (Junit 4, AssertJ, Mockito, JUnitParams)
 
 - [Kotlin](https://github.com/paucls/kotlin-spek-kata-seed)
- (Spek or Junit 4 test suits. AssertJ, Mockito)
+ (Spek or Junit 4 test suits. AssertJ, Mockito, JUnitParams)
 
 - [C#](/csharp-nunit)
  (NUnit, Moq)
