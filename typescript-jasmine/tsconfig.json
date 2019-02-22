@@ -4,7 +4,7 @@
     "declaration": true,
     "module": "commonjs",
     "outDir": "./dist",
-    "strict": true,
+    "strict": false,
     "esModuleInterop": true,
     "stripInternal": true
   }
