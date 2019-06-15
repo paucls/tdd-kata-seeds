@@ -10,6 +10,9 @@ Seed projects to quickly start practicing TDD in different programming languages
 - [C#](/csharp-nunit)
  (NUnit, Moq)
 
+- [JavaScript](/javascript-jest)
+ (Jest)
+
 - [TypeScript + Jasmine](/typescript-jasmine)
  (Jasmine, Jasmine-Parameterized)
 
