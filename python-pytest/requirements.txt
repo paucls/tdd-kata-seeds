@@ -1,2 +1,1 @@
-###### PIP Requirements ######
-
+pytest>=5.4.2
