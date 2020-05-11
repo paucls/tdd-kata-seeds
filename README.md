@@ -19,5 +19,5 @@ Seed projects to quickly start practicing TDD in different programming languages
 - [TypeScript + Mocha](https://github.com/paucls/typescript-mocha-kata-seed)
  (Mocha, Chai)
 
-- [Python + Pytest](/python-pytest)
+- [Python](/python-pytest)
 (Pytest)
