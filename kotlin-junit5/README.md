@@ -1,7 +1,17 @@
-# junit5-jupiter-starter-gradle-kotlin
+Kotlin Kata Seed
+================
 
-The `junit5-jupiter-starter-gradle-kotlin` project demonstrates how to run tests based on
-JUnit Jupiter using [Gradle's native JUnit Platform support], Gradle's Kotlin DSL
-and code and tests written in Kotlin.
+This is a seed project to quickly start practicing TDD in Kotlin using the JUnit5 test framework.
+
+Includes dependencies for:
+- [AssertJ](http://joel-costigliola.github.io/assertj)
+- [Mockito](https://site.mockito.org)
+- [Mockito Kotlin](https://github.com/nhaarman/mockito-kotlin/wiki/Mocking-and-verifying)
+
+## Running Tests
+
+With gradle
+
+```./gradlew test```
 
 [Gradle's native JUnit Platform support]: https://docs.gradle.org/current/userguide/java_testing.html#using_junit5
