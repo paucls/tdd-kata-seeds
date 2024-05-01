@@ -19,6 +19,9 @@ Seed projects to quickly start practicing TDD in different programming languages
 - [JavaScript](/javascript-jest)
  (Jest)
 
+- [TypeScript + Jest](/typescript-jest)
+ (Jest)
+
 - [TypeScript + Jasmine](/typescript-jasmine)
  (Jasmine, Jasmine-Parameterized)
 
