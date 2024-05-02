@@ -3,7 +3,7 @@ import { compilerOptions } from './tsconfig.json'
 
 export default {
   roots: ['<rootDir>/app', '<rootDir>/test'],
-  collectCoverage: true,
+  collectCoverage: false,
   coverageDirectory: 'coverage',
   coverageProvider: 'v8',
   transform: {
