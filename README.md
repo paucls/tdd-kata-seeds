@@ -31,5 +31,5 @@ Seed projects to quickly start practicing TDD in different programming languages
 - [Python](/python-pytest)
 (Pytest)
 
-Are you having trouble finding a starting project for your programming language? Try here: https://github.com/swkBerlin/kata-bootstraps.
+If you cannot find here a starting project for your programming language? You can try exploring https://github.com/swkBerlin/kata-bootstraps.
 
